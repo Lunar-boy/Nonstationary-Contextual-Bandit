@@ -63,4 +63,4 @@ All hyperparameters live in `Config` inside `nonstationary_bandit.py`. Key knobs
 - The plotting module expects the CSV columns produced by `nonstationary_bandit.py`.
 
 ## License
-Specify your license here (e.g., MIT, Apache-2.0).
+MIT
